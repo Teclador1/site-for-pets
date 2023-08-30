@@ -1,0 +1,6 @@
+@import url(normalize.css);
+
+/*Разрешения*/
+@import url(resolutions/monitor.css);
+@import url(resolutions/tablet.css);
+@import url(resolutions/mobile.css);
